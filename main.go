@@ -2,6 +2,6 @@ package submodules
 
 import "fmt"
 
-func submodulesMain() {
+func SubmodulesMain() {
 	fmt.Println("main")
 }
